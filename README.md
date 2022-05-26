@@ -1,1 +1,1 @@
-Scripting and shell permission assignment
+This is my firdt readme fir the assignment
