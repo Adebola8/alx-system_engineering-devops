@@ -1,5 +1,1 @@
-#!/bin/bash
-Hello, World
-Hello, World
-Hello, World
-Hello, World
+echo Hello, World
